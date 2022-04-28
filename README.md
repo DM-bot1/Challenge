@@ -1,6 +1,5 @@
 # Challenge
  Primeiro repositorio
 
-Repositorio criado para cumpimento do desafio do carrefour
+Repositorio criado para um desafio
 
-Finalizado
